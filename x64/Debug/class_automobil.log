@@ -1,0 +1,4 @@
+﻿  class_automobil.cpp
+class_automobil.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Car::Car(void)" (??0Car@@QEAA@XZ) в функции main.
+class_automobil.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Car::~Car(void)" (??1Car@@QEAA@XZ) в функции main.
+C:\Users\profi\Documents\Git Hub\class_automobil\x64\Debug\class_automobil.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
